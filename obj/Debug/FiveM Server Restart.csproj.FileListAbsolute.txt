@@ -1,0 +1,14 @@
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\bin\Debug\FiveM Server Restart.exe.config
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\bin\Debug\FiveM Server Restart.exe
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\bin\Debug\FiveM Server Restart.pdb
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM Server Restart.csprojAssemblyReference.cache
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\MainWindow.g.cs
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\App.g.cs
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM Server Restart_MarkupCompile.cache
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM Server Restart_MarkupCompile.lref
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\MainWindow.baml
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM Server Restart.g.resources
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM_Server_Restart.Properties.Resources.resources
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM Server Restart.csproj.GenerateResource.cache
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM Server Restart.exe
+F:\Minhas coisas\FiveM Server Restart\FiveM Server Restart\obj\Debug\FiveM Server Restart.pdb
